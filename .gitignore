@@ -1,0 +1,7 @@
+#ignore ALL .log .tmp files
+*.log
+*.tmp
+
+#ignore All files in  any directory secret\ 
+secret\
+
