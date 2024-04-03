@@ -1,3 +1,7 @@
 this is line 1 in file1
 this is line 2 in file1 but updated by file3work
+
+this is new work in between
+
+
 this line is added in branch file2work
