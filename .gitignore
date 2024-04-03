@@ -1,7 +1,7 @@
 #ignore ALL .log .tmp files
 *.log
 *.tmp
-
+.gitignore
 #ignore All files in  any directory secret/ 
 secret/
 
