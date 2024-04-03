@@ -2,6 +2,6 @@
 *.log
 *.tmp
 
-#ignore All files in  any directory secret\ 
-secret\
+#ignore All files in  any directory secret/ 
+secret/
 
